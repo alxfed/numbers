@@ -1,3 +1,3 @@
 # numbers
 
-repository
+repository for number crunching
